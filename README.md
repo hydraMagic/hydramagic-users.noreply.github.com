@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/aidankirk617/JournalFree"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
+    <br />hydraMagic@users.noreply.github.com
     <!-- Commented out until we have a live demo -->
     <!--<a href="https://github.com/github_username/repo">View Demo</a> -->
     ·
@@ -113,7 +113,7 @@ Distributed under the ____ License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aidan Kirk - [aidankirk617@gmail.com]()
+Aidan Kirk - [om]()
 
 Project Link: [https://github.com/aidankirk617/JournalFree#built-with](https://github.com/aidankirk617/JournalFree#built-with)
 
